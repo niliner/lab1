@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "lab1"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-lab1-b883e03b-e59b-4d71-ac05-71742fbcbab1;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
